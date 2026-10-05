@@ -1,0 +1,17 @@
+{
+  "name": "keuangan-harian",
+  "version": "1.0.0",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^14.1.0",
+    "expo": "~54.0.0",
+    "expo-sqlite": "~16.0.0",
+    "react": "19.1.0",
+    "react-native": "0.81.4"
+  }
+}
